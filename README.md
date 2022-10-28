@@ -8,5 +8,5 @@ CRUD em Java com banco de dados PostGreSQL
 * Desenvolvimento em camadas
 
 ## Instruções para execução
-*Crie um banco de dados no PostGreSQL e configure-o na classe ConnectionFactory
-*Execute no banco de dados o arquivo script.sql para criação de tabelas
+* Crie um banco de dados no PostGreSQL e configure-o na classe ConnectionFactory
+* Execute no banco de dados o arquivo script.sql para criação de tabelas
